@@ -14,15 +14,6 @@
 
 ## `> cat about_me.txt`
 
-```properties
-HANDLE     = Igor Pires
-EDUCATION  = Postgrad in Offensive Cybersecurity
-XP         = 10+ years in software development
-LANGUAGES  = Portuguese  [████████████████████] Native
-             English     [████████████████░░░░] Professional
-             Spanish     [██████░░░░░░░░░░░░░░] Basic
-```
-
 Software Engineer with 10+ years of professional experience — from early days working with server infrastructure, bash scripting, firewall implementation, and on-site installations, through years of hands-on **web and mobile development** building SPAs, cross-platform apps, and full-stack solutions, to leading frontend teams on large-scale e-commerce platforms. My core focus is **web and mobile development**, complemented by deep expertise in **micro-frontend architecture**, **web performance optimization**, and **Core Web Vitals**. Throughout my career I've worked across the full delivery cycle — component-driven development, design systems, analytics instrumentation, structured data/SEO, performance monitoring integrated into CI/CD pipelines, and shipping measurable improvements at scale.
 
 On the security side, I hold a postgraduate degree in **Offensive Cybersecurity** — with hands-on experience in **pentesting**, **CTF challenges**, **privilege escalation**, **reverse engineering**, **code injection**, **OSINT**, and building automated security workflows with tools like **Kali Linux**, custom agents, and local LLM-powered pipelines.
